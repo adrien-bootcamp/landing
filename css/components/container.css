@@ -1,0 +1,37 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container a, .container p {
+  color: #FFFFFF;
+}
+
+.container a {
+  padding: 18px 75px;
+  border-radius:35px;
+  background-color: #1DDD88;
+}
+
+.container h1 {
+  font-weight: 700;
+  font-size: 32px;
+  color: #FFFFFF;
+  margin-bottom: 22px;
+}
+
+.container p {
+  font-size: 20px;
+  margin-bottom: 43px;
+  opacity: 0.5
+}
+
+.container img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.container h2 {
+  text-align: center;
+}
